@@ -1,2 +1,2 @@
 # ilyas-github
-This is for stuying purpose
+This is for studying purpose
